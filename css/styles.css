@@ -1,0 +1,221 @@
+body{
+    text-align: center;
+    font-family:"Montserrat";
+    }
+h1{
+    font-family: "Montserrat-Black 900";
+    font-size: 3.5rem;
+    line-height: 1;
+    color: #ffffff;
+}
+h2{
+    font-family:"Montserrat-Bold";
+    padding-bottom: 3px;
+}
+h3{
+  font-family:"Montserrat-Bold";
+  font-size: 3rem;
+  line-height: 1;
+  color: #000000;
+}
+p{
+  color:  #34034A;
+  font-size: 1.5rem;
+}
+#title{
+    background-color: #0A6FBF;
+    text-align:center;
+    padding-bottom: 20%;
+}
+#press{
+    text-align: center;
+    padding-bottom: 3%;
+    background-color: #00CAB7;
+}
+.press-logo-1{
+    width: 16%;
+}
+.title-image{
+    border-radius: 90%;
+    position: relative;
+    top: 36px;
+}
+.title-image-1{
+    width: 90%;
+    border-radius: 90%;
+    position: relative;
+    top: 110px;
+    right:10px;
+}
+.title-image-2{
+    width: 30%;
+    border-radius: 20%;
+    position: relative;
+    top: 70px;
+}
+
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    padding-left: 20px;
+    padding-right: 700px;
+    font-size: 3rem;
+}
+.nav-item{
+    font-family: 'IBM Plex Sans Thin 100 Italic', sans-serif;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family:"Montserrat-Light";
+}
+.f-image{
+    width: 41%;
+    position: relative;
+    right: 26px;
+    border-radius:30%;
+    padding-bottom: 3px;
+}
+.f-image-1{
+    width: 44%;
+    position: relative;
+    left: 18px;
+    top: 2px;
+    border-radius:30%;
+    padding-top: 2px;
+    padding-bottom: 6px;
+}
+.shoe-image{
+    width: 90%;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+#title{
+    background-color: #0A6FBF;
+    text-align:center;
+}
+#press{
+    text-align: center;
+    padding-bottom: 3%;
+    background-color: #00CAB7;
+}
+#features{
+    background-color: #9EE6DF;
+    padding: 7% 11%;
+    text-align:center;
+}
+.sh-image{
+  width: 78%;
+  border-radius: 30px;
+  left: 90px;
+}
+.sh-image-1{
+  width: 52%;
+  border-radius: 30px;
+  left: 90px;
+}
+.sh-image-2{
+  width: 79%;
+  border-radius: 30px;
+  left: 90px;
+}
+.m-text{
+  text-align: center;
+}
+.container{
+  position: relative;
+  text-align: center;
+  color: #000;
+}
+.top-left{
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  font-size: 4.5rem;
+  font-family: 'Anton', sans-serif;
+}
+.bottom-left{
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+  font-size: 4.5rem;
+  font-family: 'Anton', sans-serif;
+}
+.fs{
+  padding-bottom: 2%;
+}
+.m-f{
+    width: 70%;
+    border-radius:30px;
+    transform: rotate(25deg);
+    margin-top: 2%;
+    padding-bottom: 3%;
+    padding-left: 27%;
+}
+.m-f-1{
+    width: 70%;
+    border-radius:30px;
+    transform: rotate(-25deg);
+    margin-top: 2%;
+    padding-bottom: 13%;
+    padding-right: 27%;
+}
+#testimonials{
+    background-color: #00CAB7;
+    padding: 4% 15%;
+    text-align: center;
+}
+#pricing{
+    background-color: #fff;
+    text-align: center;
+    padding-bottom: 6%;
+}
+#cta{
+    text-align: center;
+     padding: 7% 14%;
+     background-color: #2E4CF5;
+}
+.ca-text{
+  color: #fff;
+  padding-bottom: 3%;
+}
+#messi{
+  background-color: #00CAB7;
+  text-align: center;
+}
+#ronaldo{
+    background-color: #B2F7EC;
+}
+#football{
+  background-color: #156AC4;
+  text-align: center;
+  padding: 4% 10%;
+
+}
+#world-cup{
+    background-color:#1BC3E5;
+    text-align: center;
+    padding: 4% 10%;
+}
+.s-image{
+  width: 48%;
+  border-radius: 30px;
+  left: 90px;
+}
+.s-image-1{
+  width: 57%;
+  border-radius: 30px;
+  left: 90px;
+}
+.s-image-2{
+  width: 68%;
+  border-radius: 30px;
+  left: 90px;
+}
+#footer{
+    text-align:center;
+    padding: 14%;
+    background-color: #5FCEE7;
+}
+.yes{
+  padding-left: 3%;
+}
